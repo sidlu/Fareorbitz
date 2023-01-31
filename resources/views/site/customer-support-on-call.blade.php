@@ -119,7 +119,7 @@
     }
 
     .fill-1 {
-        animation: fill 1s linear 1;
+        animation: fill 6s linear 1;
     }
 
     @keyframes fill {
@@ -188,12 +188,12 @@
 </div>
 @include('site.footer')
 <script>
-    $('.progress-bar-fill').delay(10000).queue(function() {
+    $('.progress-bar-fill').delay(6000).queue(function() {
         $(this).css('width', '100%');
     });
     if (window.matchMedia("(max-width: 768px)").matches) {
         setTimeout(function() {
             document.getElementById("call").click();
-        }, 1000);
+        }, 6000);
     }
 </script>
