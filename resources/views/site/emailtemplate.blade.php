@@ -5,6 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="robots" content="noindex,nofollow" />
     <title>Fareorbitz</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
@@ -242,7 +243,7 @@
                                                 <p class="card-meta font-size-14">Indira Gandhi International Airport</p>
                                             </div>
                                             <div class="px-5">
-                                                <img src="https://fareorbitz.indwebdesign.com/images/half-arrow-2.png" class="img-fluid" alt="">
+                                                <img src="https://fareorbitz.com/images/half-arrow-2.png" class="img-fluid" alt="">
                                                 <h3 class="card-title font-size-15 font-weight-medium mb-0">4h 50m</h3>
                                                 <hr>
                                                 <h3 class="card-meta font-size-14">Economy</h3>
@@ -320,7 +321,7 @@
                                                 <p class="card-meta font-size-14">Indira Gandhi International Airport</p>
                                             </div>
                                             <div class="px-5">
-                                                <img src="https://fareorbitz.indwebdesign.com/images/half-arrow-2.png" class="img-fluid" alt="">
+                                                <img src="https://fareorbitz.com/images/half-arrow-2.png" class="img-fluid" alt="">
                                                 <h3 class="card-title font-size-15 font-weight-medium mb-0">4h 50m</h3>
                                                 <hr>
                                                 <h3 class="card-meta font-size-14">Economy</h3>

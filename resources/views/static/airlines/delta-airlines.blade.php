@@ -8,6 +8,7 @@
     <meta property="og:title" content="Fareorbitz" />
     <meta property="og:site_name" content="Fareorbitz" />
     <title>Fareorbitz</title>
+    <meta name="robots" content="noindex,nofollow" />
     <base href="/">
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}" />
@@ -68,7 +69,7 @@
                                         <ul class="list-unstyled">
                                             <li><a href="/" title="home">Home</a></li>
                                             <!-- <li><a href="{{ url('about-us') }}" title="About us">About Us</a></li> -->
-                                            <li><a href="https://fareorbitz.indwebdesign.com/" title="Flights">Flights</a></li>
+                                            <li><a href="https://fareorbitz.com/" title="Flights">Flights</a></li>
                                             <li><a href="{{ route('hotels') }}" title="Flights">Hotels</a></li>
                                             <li><a href="{{ url('holiday-packages') }}" title="Holiday Packages">Holiday Packages</a></li>
                                             <li><a href="{{ route('visa') }}" title="Visa">Visa</a></li>
@@ -200,9 +201,6 @@
     <section class="page-banner-bg">
         <img src="{{ asset('images/airlines/delta-airline.jpg') }}" class="img-fluid" alt="delta airline" />
     </section>
-    <!-- <div class="search-btn">
-    <button class="btn btn-primary btn-block w-100" style="border-radius: 0;" id="show_search">Search Flights</button>
-</div> -->
     <div id="search_box">
         @include('flight.flight-search-box')
     </div>

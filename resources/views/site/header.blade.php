@@ -9,6 +9,7 @@
    <meta property="og:site_name" content="Fareorbitz" />
    <title>Fareorbitz</title>
    <base href="/">
+   <meta name="robots" content="noindex,nofollow" />
    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
    <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}" />
    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
