@@ -182,7 +182,7 @@
                     <h3 class="ownmodal-title2 text-center orange-text my-2">Un-Published Fares</h3>
                     <p class="modal-prgh2 text-center">Saved For Our Callers</p>
                     <div class="text-center">
-                        <img src="{{ asset('images/partners/united-airlines.jpg') }}" alt="air-line-img" class="img-fluid">
+                        <img src="{{ asset('images/partners/united-airlines.jpg') }}" alt="air-line-img" class="img-fluid greyscale">
                     </div>
                     <p class="ownmodal-title2 my-3">United Airlines Reservations </p>
                     <p class="modal-prgh2">New Reservations, Changes, Cancellations & Customer Service </p>

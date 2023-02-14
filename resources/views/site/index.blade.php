@@ -343,10 +343,10 @@
                                 <div class="col-md-3 col-xs-6 deal-bg-3">
                                     <a href="{{url('brussels-airlines')}}">
                                         <div class="deal-card">
-                                            <div class="deal-title">
+                                            <div class="deal-image">
                                                 <img data-src="{{ asset('images/partners/brussels-airlines.jpg') }}" alt="air-line-img" class="img-fluid lazyload">
                                             </div>
-                                            <h6>Brussels Airlines </h6>
+                                            <h6 class="deal-title">Brussels Airlines </h6>
                                         </div>
                                     </a>
                                 </div>
